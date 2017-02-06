@@ -1,0 +1,12 @@
+\\nstu-uwe03.campus.ads.uwe.ac.uk\users3$\mp2-holmes\Windows\Downloads\DXTK_Code_Base(1)\DXTK_Code_Base\MakeSpriteFont\bin\Debug\MakeSpriteFont.exe
+\\nstu-uwe03.campus.ads.uwe.ac.uk\users3$\mp2-holmes\Windows\Downloads\DXTK_Code_Base(1)\DXTK_Code_Base\MakeSpriteFont\bin\Debug\MakeSpriteFont.pdb
+\\nstu-uwe03.campus.ads.uwe.ac.uk\users3$\mp2-holmes\Windows\Downloads\DXTK_Code_Base(1)\DXTK_Code_Base\MakeSpriteFont\obj\Debug\MakeSpriteFont.csprojResolveAssemblyReference.cache
+\\nstu-uwe03.campus.ads.uwe.ac.uk\users3$\mp2-holmes\Windows\Downloads\DXTK_Code_Base(1)\DXTK_Code_Base\MakeSpriteFont\obj\Debug\MakeSpriteFont.exe
+\\nstu-uwe03.campus.ads.uwe.ac.uk\users3$\mp2-holmes\Windows\Downloads\DXTK_Code_Base(1)\DXTK_Code_Base\MakeSpriteFont\obj\Debug\MakeSpriteFont.pdb
+F:\UWE GAMES TEC WORK\DXTK_Code_Base(1)\DXTK_Code_Base\MakeSpriteFont\bin\Debug\MakeSpriteFont.exe
+F:\UWE GAMES TEC WORK\DXTK_Code_Base(1)\DXTK_Code_Base\MakeSpriteFont\bin\Debug\MakeSpriteFont.pdb
+F:\UWE GAMES TEC WORK\DXTK_Code_Base(1)\DXTK_Code_Base\MakeSpriteFont\obj\Debug\MakeSpriteFont.csprojResolveAssemblyReference.cache
+F:\UWE GAMES TEC WORK\DXTK_Code_Base(1)\DXTK_Code_Base\MakeSpriteFont\obj\Debug\MakeSpriteFont.exe
+F:\UWE GAMES TEC WORK\DXTK_Code_Base(1)\DXTK_Code_Base\MakeSpriteFont\obj\Debug\MakeSpriteFont.pdb
+F:\UWE GAMES TEC WORK\DXTK_Code_Base(1) - Copy\DXTK_Code_Base\MakeSpriteFont\obj\Debug\MakeSpriteFont.exe
+F:\UWE GAMES TEC WORK\DXTK_Code_Base(1) - Copy\DXTK_Code_Base\MakeSpriteFont\obj\Debug\MakeSpriteFont.pdb

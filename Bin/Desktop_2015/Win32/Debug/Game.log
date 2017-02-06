@@ -1,0 +1,59 @@
+﻿Build started 06/02/2017 10:48:49.
+     1>Project "F:\UWE GAMES TEC WORK\DXTK_Code_Base(1) - Copy\DXTK_Code_Base\Game\Game.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (..\Bin\Desktop_2015\Win32\Debug\) contains files shared from another project (DirectXTKAudio_Desktop_2015_Win8.vcxproj, DirectXTK_Desktop_2015.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I..\Inc /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /D _MBCS /D _DEBUG /D DEBUG /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"..\Bin\Desktop_2015\Win32\Debug\\" /Fd"..\Bin\Desktop_2015\Win32\Debug\Game.pdb" /Gd /TP /analyze- /errorReport:prompt Bullet.cpp camera.cpp CMOGO.cpp Enemy.cpp EnemyBullets.cpp EnemyManager.cpp Game.cpp gameobject.cpp Gun.cpp terrain.cpp TPSCamera.cpp Vehicle.cpp
+         Vehicle.cpp
+         c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         TPSCamera.cpp
+         c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         terrain.cpp
+         c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         Gun.cpp
+         c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         gameobject.cpp
+         c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>f:\uwe games tec work\dxtk_code_base(1) - copy\dxtk_code_base\game\gameobject.cpp(6): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+     1>f:\uwe games tec work\dxtk_code_base(1) - copy\dxtk_code_base\game\gameobject.cpp(53): warning C4305: 'argument': truncation from 'double' to 'float'
+         Game.cpp
+         c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>f:\uwe games tec work\dxtk_code_base(1) - copy\dxtk_code_base\game\game.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>f:\uwe games tec work\dxtk_code_base(1) - copy\dxtk_code_base\game\game.cpp(258): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+         EnemyManager.cpp
+         c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>f:\uwe games tec work\dxtk_code_base(1) - copy\dxtk_code_base\game\enemymanager.cpp(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>f:\uwe games tec work\dxtk_code_base(1) - copy\dxtk_code_base\game\enemymanager.cpp(27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+         EnemyBullets.cpp
+         c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         Enemy.cpp
+         c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>f:\uwe games tec work\dxtk_code_base(1) - copy\dxtk_code_base\game\enemy.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>f:\uwe games tec work\dxtk_code_base(1) - copy\dxtk_code_base\game\enemy.cpp(21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>f:\uwe games tec work\dxtk_code_base(1) - copy\dxtk_code_base\game\enemy.cpp(36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>f:\uwe games tec work\dxtk_code_base(1) - copy\dxtk_code_base\game\enemy.cpp(86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+         CMOGO.cpp
+         c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         camera.cpp
+         c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         Bullet.cpp
+         c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"..\Bin\Desktop_2015\Win32\Debug\Game.lib" /NOLOGO ..\Bin\Desktop_2015\Win32\Debug\Bullet.obj
+         ..\Bin\Desktop_2015\Win32\Debug\camera.obj
+         ..\Bin\Desktop_2015\Win32\Debug\CMOGO.obj
+         ..\Bin\Desktop_2015\Win32\Debug\Enemy.obj
+         ..\Bin\Desktop_2015\Win32\Debug\EnemyBullets.obj
+         ..\Bin\Desktop_2015\Win32\Debug\EnemyManager.obj
+         ..\Bin\Desktop_2015\Win32\Debug\Game.obj
+         ..\Bin\Desktop_2015\Win32\Debug\gameobject.obj
+         ..\Bin\Desktop_2015\Win32\Debug\Gun.obj
+         ..\Bin\Desktop_2015\Win32\Debug\terrain.obj
+         ..\Bin\Desktop_2015\Win32\Debug\TPSCamera.obj
+         ..\Bin\Desktop_2015\Win32\Debug\Vehicle.obj
+         Game.vcxproj -> F:\UWE GAMES TEC WORK\DXTK_Code_Base(1) - Copy\DXTK_Code_Base\Game\..\Bin\Desktop_2015\Win32\Debug\Game.lib
+     1>Done Building Project "F:\UWE GAMES TEC WORK\DXTK_Code_Base(1) - Copy\DXTK_Code_Base\Game\Game.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:23.09
